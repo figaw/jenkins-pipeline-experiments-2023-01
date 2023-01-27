@@ -6,6 +6,6 @@ node {
     stage('Example') {
         echo "Hello, World!"
 
-        someFunction("asdf");
+        mainFunction("asdf");
     }
 }
