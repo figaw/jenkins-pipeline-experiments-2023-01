@@ -1,5 +1,5 @@
 
-@Library('my-great-library') _
+@Library('my-great-library@feature/test-branch') _
 
 
 node {
